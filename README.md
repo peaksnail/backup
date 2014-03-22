@@ -1,4 +1,4 @@
 backup
 ======
 
-to save some backup file 
+to save some backup file and some software config file
